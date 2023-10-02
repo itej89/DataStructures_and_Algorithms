@@ -2,5 +2,5 @@
 #include "BFSGraphIterator.h"
 
 namespace Alg {
-    template class BFSGraphIterator<int, int>;
+template class BFSGraphIterator<int, int>;
 }
